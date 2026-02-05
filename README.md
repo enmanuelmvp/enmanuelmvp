@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Starry Background Header with Animation -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Valentina%20Werle&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20%7C%20Content%20Creator%20%7C%20Tech%20Enthusiast&descSize=18&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Enmanuel A.%20Ferreras&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20%7C%20Content%20Creator%20%7C%20Tech%20Enthusiast&descSize=18&descAlignY=55"/>
 
 <!-- Animated Typing Text -->
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Hi+there!+%F0%9F%91%8B+I'm+Valentina+Werle;Computer+Engineering+Student+%F0%9F%92%BB;Full+Stack+Developer+%7C+Streamer+%F0%9F%8E%AE;Building+the+Future+with+Code!+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Hi+there!+%F0%9F%91%8B+I'm+Enmanuel A.+Ferreras;Computer+Engineering+Student+%F0%9F%92%BB;Full+Stack+Developer+%7C+Streamer+%F0%9F%8E%AE;Building+the+Future+with+Code!+%E2%9C%A8" alt="Typing SVG" />
 </h1>
 
 <!-- Wave Animation -->
@@ -52,7 +52,6 @@
 ### 💬 **Ask Me About:**
 ✔ Front-End & Back-End Development  
 ✔ Software Architecture  
-✔ Tech Content Creation  
 ✔ Anything tech-related - I'm happy to help!
 
 </td>
@@ -77,10 +76,8 @@
 
 📖 **Science Books** - Exploring the universe through pages
 
-👾 **Content Creator** - Sharing programming & tech knowledge
-
 ### 📫 **Connect With Me:**
-📧 Email: **valenwerlecontacto@gmail.com**
+📧 Email: **enmanuelalfonso6@gmail.com**
 
 </td>
 </tr>
@@ -181,19 +178,13 @@
 ## 🌐 **Connect With Me on Social Media**
 
 <p>
-<a href="https://www.instagram.com/valenwerle/?hl=es" target="_blank">
+<a href="https://instagram.com/enmanuelmvp" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
 </a>
-<a href="https://www.tiktok.com/@vapixel_" target="_blank">
+<a href="https://www.tiktok.com/@enmanuelmvp?_r=1&_t=ZS-93gA6bfZmb2" target="_blank">
   <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok"/>
 </a>
-<a href="https://www.twitch.tv/valenwerle" target="_blank">
-  <img src="https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/>
-</a>
-<a href="https://www.youtube.com/@ValenWerle" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/>
-</a>
-<a href="https://www.linkedin.com/in/valenwerle" target="_blank">
+<a href="www.linkedin.com/in/enmanuelferreras" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 </p>
