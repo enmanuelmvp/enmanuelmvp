@@ -1,118 +1,86 @@
-<div align="center">
+<h1 align="center">
+  <b>Hi, I'm Enmanuel Ferreras</b>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
 
-<!-- 🌌 Header Red & Black with Stars -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8B0000,100:FF0000&height=230&section=header&text=Enmanuel%20Ferreras&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Software%20Developer&descSize=18&descAlignY=60&animation=twinkling"/>
+<!-- F1 Car instead of cat -->
+<img align="right" width="320px" alt="Formula 1 Car"
+src="https://media.githubusercontent.com/media/microsoft/fluentui-emoji/main/assets/Racing%20Car/3D/racing_car_3d.png" />
 
-<!-- ⌨️ Typing Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2600&pause=1200&color=FF0000&center=true&vCenter=true&width=900&lines=Hi+there!+I'm+Enmanuel+Ferreras;Driven+by+Speed+and+Clean+Code;Formula+1+Mindset+🏎️🔥;Red+%26+Black+Engineering" />
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-</div>
+I am a **Computer Engineering student**, currently advancing through my degree.  
+I am expanding my knowledge in both **frontend and backend development**, and I have experience working as a **software developer**, building modern and scalable solutions.
 
----
+I am passionate about learning and creating **productive, innovative, and well-structured software**.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🏎️ About Me — *Formula 1 Mentality*
-
-<table>
-<tr>
-<td width="65%">
-
-🎓 **Computer Engineering Student**  
-Strong foundations in software development and system design.
-
-💼 **Software Developer**  
-Experience building scalable frontend and backend applications.
-
-🚀 **What defines me**
-- Fast learner with engineering discipline  
-- Clean, maintainable and efficient code  
-- Real-world problem solving  
-- Passion for technology and performance  
-
-🏁 **Philosophy**  
-> *Write code like an F1 car: optimized, precise, and built to perform.*
-
-</td>
-<td width="35%" align="center">
-
-<img src="https://media.githubusercontent.com/media/microsoft/fluentui-emoji/main/assets/Racing%20Car/3D/racing_car_3d.png" width="220"/>
-
-</td>
-</tr>
-</table>
+- 🌱 I’m currently learning:
+  - **NestJS**
+  - **Angular**
+- 👯 I’m looking forward to collaborating on **open-source projects**
+- ✔ Ask me about anything, I’m happy to help  
+- Outside tech, 💜 I enjoy technology content, 🎮 videogames, 🎵 music, and 📖 learning new things
+- 👾 I also create content related to **programming and technology**
+- 📫 Reach me at: <a href="mailto:enmanuelalfonso6@gmail.com">enmanuelalfonso6@gmail.com</a>
 
 ---
 
-## 🌌 Currently Accelerating
-- Advanced **Frontend Architectures**
-- **Backend Design Patterns**
-- **Software Architecture**
+## 🛠️ My Skills Include
 
----
+### 💻 Languages & Technologies
+<span> 
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=FF0000">
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=FF0000">
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FF0000">
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=FF0000">
+  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=FF0000">
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FF0000">
+</span>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🛠️ Tech Stack — *Red & Black Power*
+<br><br>
 
 ### 🎨 Frontend
-<p align="center">
-HTML · CSS · React.js · Angular · Next.js · Vite · TypeScript · Tailwind CSS · Chart.js
-</p>
+<span>
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=FF0000">
+  <img src="https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=FF0000">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=FF0000">
+  <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=FF0000">
+  <img src="https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwind-css&logoColor=FF0000">
+  <img src="https://img.shields.io/badge/Chart.js-000000?style=for-the-badge&logo=chart.js&logoColor=FF0000">
+</span>
 
-### ⚙️ Backend
-<p align="center">
-Node.js · NestJS · JavaScript · TypeScript · C# · Python · RESTful Services
-</p>
+<br><br>
 
-### 🗄️ Databases
-<p align="center">
-MySQL · MongoDB · SQL Server
-</p>
+### ⚙️ Backend & Databases
+<span>
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=FF0000">
+  <img src="https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=nestjs&logoColor=FF0000">
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=FF0000">
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=FF0000">
+  <img src="https://img.shields.io/badge/SQL%20Server-000000?style=for-the-badge&logo=microsoft-sql-server&logoColor=FF0000">
+</span>
+
+<br><br>
 
 ### 🧰 Tools & Workflow
-<p align="center">
-Git · GitHub · Docker · Jenkins · Jira
-</p>
+<span>
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FF0000">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF0000">
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=FF0000">
+  <img src="https://img.shields.io/badge/Jenkins-000000?style=for-the-badge&logo=jenkins&logoColor=FF0000">
+  <img src="https://img.shields.io/badge/Jira-000000?style=for-the-badge&logo=jira&logoColor=FF0000">
+</span>
 
 ---
 
-## 🏁 Goals
-- Become a high-level **Full Stack Developer**
-- Build scalable and impactful software
-- Apply clean architecture consistently
-- Collaborate with professional teams
-- Never stop improving 🚀
+## 🌐 Check out my Social Media
 
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📫 Connect With Me
-
-<p align="center">
-<a href="mailto:enmanuelalfonso6@gmail.com">
-  <img src="https://img.shields.io/badge/Email-8B0000?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://instagram.com/enmanuelmvp" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://www.instagram.com/enmanuelmvp" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-FF0000?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 <a href="https://www.tiktok.com/@enmanuelmvp" target="_blank">
-  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=red"/>
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=TikTok&logoColor=red">
 </a>
 <a href="https://www.linkedin.com/in/enmanuelferreras" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-8B0000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-8B0000?style=for-the-badge&logo=LinkedIn&logoColor=white">
 </a>
-</p>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile
-### 🏎️ *Engineered with passion by Enmanuel Ferreras*
-
-</div>
-
-<!-- 🔥 Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:8B0000,100:000000&height=140&section=footer&animation=twinkling"/>
