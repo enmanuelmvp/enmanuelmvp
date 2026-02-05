@@ -25,7 +25,7 @@
 <tr>
 <td width="50%" align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=FF0000&height=150&section=header&text=DRIVER%20PROFILE&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=55"/>
+### ⚡ **DRIVER PROFILE**
 
 <br>
 
@@ -44,7 +44,7 @@
 </td>
 <td width="50%" align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=CURRENT%20LAP&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=55"/>
+### 🏎️ **CURRENT LAP**
 
 <br>
 
@@ -72,7 +72,9 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=80&section=header&text=🏆%20CHAMPIONSHIP%20GOAL&fontSize=25&fontColor=fff&animation=fadeIn&fontAlignY=60"/>
+### 🏆 **CHAMPIONSHIP GOAL**
+
+<br>
 
 <table>
 <tr>
