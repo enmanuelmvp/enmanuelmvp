@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Epic F1 Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,24,26,27&height=300&section=header&text=ENMANUEL A.%20FERRERAS&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=⚡%20FULL%20STACK%20DEVELOPER%20⚡%20RACING%20THROUGH%20CODE%20⚡&descSize=22&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=300&section=header&text=ENMANUEL%20A.%20FERRERAS&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=⚡%20FULL%20STACK%20DEVELOPER%20⚡%20RACING%20THROUGH%20CODE%20⚡&descSize=22&descAlignY=60"/>
 
 <br>
 
@@ -319,26 +319,9 @@
 </div>
 
 <!-- Epic Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,24,26,27&height=180&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=180&section=footer"/>
 
 <div align="center">
-
-```
-              🏁                             🏁
-    ___________||_____________________________||
-   /  ____                                  __  \
-  |  |    \________________________________/  |  |
-  |  |  ___    ___    ___    ___    ___   ___ |  |
-  |  | |   |  |   |  |   |  |   |  |   | |   ||  |
-   \_|_|___|__|___|__|___|__|___|__|___|_|___|_/
-   (O)                                       (O)
-      \======================================/
-       \_____________________________________/
-         \   \                        /   /
-          \   \   🏎️ RACE CAR 🏎️   /   /
-           \___\____________________/___/
-           (O)                        (O)
-```
 
 ### 🏎️ **FULL SPEED AHEAD!** 🏁
 
