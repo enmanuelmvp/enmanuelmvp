@@ -19,58 +19,88 @@
 
 ## 🏁 ABOUT THE DRIVER
 
+<div align="center">
+
 <table>
 <tr>
-<td width="35%" align="center">
+<td width="50%" align="center">
 
-### ⚡ DRIVER STATS
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=FF0000&height=150&section=header&text=DRIVER%20PROFILE&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=55"/>
 
-```
-🔧 ROLE
-   Software Developer
+<br>
 
-🎓 EDUCATION  
-   Computer Engineering
+<img src="https://img.shields.io/badge/🔧_ROLE-Software%20Developer-FF0000?style=for-the-badge&labelColor=000000&color=FF0000"/>
 
-📍 LOCATION
-   Dominican Republic 🇩🇴
+<img src="https://img.shields.io/badge/🎓_EDUCATION-Computer%20Engineering-FF0000?style=for-the-badge&labelColor=000000&color=FF0000"/>
 
-☕ FUEL TYPE
-   Coffee & Passion
+<img src="https://img.shields.io/badge/📍_LOCATION-Dominican%20Republic%20🇩🇴-FF0000?style=for-the-badge&labelColor=000000&color=FF0000"/>
 
-⚡ SPEED MODE
-   Maximum
-```
+<img src="https://img.shields.io/badge/☕_FUEL-Coffee%20%26%20Passion-FF0000?style=for-the-badge&labelColor=000000&color=FF0000"/>
+
+<img src="https://img.shields.io/badge/⚡_SPEED-Maximum%20Attack-FF0000?style=for-the-badge&labelColor=000000&color=FF0000"/>
+
+<br>
 
 </td>
-<td width="65%">
+<td width="50%" align="center">
 
-### 🏎️ CURRENT LAP
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=CURRENT%20LAP&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=55"/>
 
-#### 📚 **LEARNING TRACK**
-```diff
-+ Advanced Frontend Architectures
-+ Backend Design Patterns  
-+ Software Architecture Principles
-```
+<br>
 
-#### 🔨 **BUILDING**
-```diff
-! Scalable Web Applications
-! Clean Code Solutions
-! Modern Technology Implementations
-```
+**📚 LEARNING TRACK**
 
-#### 🏆 **CHAMPIONSHIP GOAL**
-```yaml
-Target: Podium Position in Software Development
-Status: In Progress
-Drive: Maximum Attack Mode
-```
+<img src="https://img.shields.io/badge/▸_Advanced%20Frontend%20Architectures-FF0000?style=for-the-badge&labelColor=000000"/>
+
+<img src="https://img.shields.io/badge/▸_Backend%20Design%20Patterns-000000?style=for-the-badge&labelColor=FF0000"/>
+
+<img src="https://img.shields.io/badge/▸_Software%20Architecture-FF0000?style=for-the-badge&labelColor=000000"/>
+
+<br>
+
+**🔨 BUILDING**
+
+<img src="https://img.shields.io/badge/▸_Scalable%20Applications-000000?style=for-the-badge&labelColor=FF0000"/>
+
+<img src="https://img.shields.io/badge/▸_Clean%20Code%20Solutions-FF0000?style=for-the-badge&labelColor=000000"/>
+
+<img src="https://img.shields.io/badge/▸_Modern%20Tech%20Stack-000000?style=for-the-badge&labelColor=FF0000"/>
 
 </td>
 </tr>
 </table>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=80&section=header&text=🏆%20CHAMPIONSHIP%20GOAL&fontSize=25&fontColor=fff&animation=fadeIn&fontAlignY=60"/>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/TARGET-Podium%20Position-FF0000?style=for-the-badge&logo=target&logoColor=white&labelColor=000000"/>
+
+**Software Development**
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/STATUS-In%20Progress%20🔥-FF0000?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=000000"/>
+
+**Full Throttle**
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/DRIVE-Maximum%20Attack-FF0000?style=for-the-badge&logo=speedtest&logoColor=white&labelColor=000000"/>
+
+**No Limits**
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <div align="center">
 
@@ -200,7 +230,9 @@ Drive: Maximum Attack Mode
 
 ## 🏆 CHAMPIONSHIP TROPHIES
 
-<img src="https://github-profile-trophy.vercel.app?username=enmanuelmvp&theme=radical&no-frame=false&no-bg=false&margin-w=15&margin-h=15&column=7&title_color=FF0000&icon_color=FF0000&text_color=ffffff&bg_color=000000&border_color=FF0000" />
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=enmanuelmvp&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" />
 
 <br>
 
