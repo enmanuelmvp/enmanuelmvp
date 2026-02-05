@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Epic F1 Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=300&section=header&text=ENMANUEL A.%20FERRERAS&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=⚡%20FULL%20STACK%20DEVELOPER%20⚡%20RACING%20THROUGH%20CODE%20⚡&descSize=22&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=300&section=header&text=ENMANUEL%20FERRERAS&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=⚡%20FULL%20STACK%20DEVELOPER%20⚡%20RACING%20THROUGH%20CODE%20⚡&descSize=22&descAlignY=60"/>
 
 <br>
 
@@ -180,14 +180,14 @@ Drive: Maximum Attack Mode
 <br>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=EnmanuelFerreras&show_icons=true&theme=radical&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=ffffff&border_color=FF0000&border_radius=10&hide_border=false&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=EnmanuelFerreras&theme=radical&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FF0000&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&border=FF0000&border_radius=10" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=enmanuelmvp&show_icons=true&theme=radical&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=ffffff&border_color=FF0000&border_radius=10&hide_border=false&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=enmanuelmvp&theme=radical&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FF0000&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&border=FF0000&border_radius=10" />
 </div>
 
 <br>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnmanuelFerreras&layout=compact&theme=radical&bg_color=000000&title_color=FF0000&text_color=ffffff&border_color=FF0000&border_radius=10&langs_count=8" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enmanuelmvp&layout=compact&theme=radical&bg_color=000000&title_color=FF0000&text_color=ffffff&border_color=FF0000&border_radius=10&langs_count=8" />
 </div>
 
 <br>
@@ -200,7 +200,7 @@ Drive: Maximum Attack Mode
 
 ## 🏆 CHAMPIONSHIP TROPHIES
 
-<img src="https://github-profile-trophy.vercel.app?username=EnmanuelFerreras&theme=radical&no-frame=false&no-bg=false&margin-w=15&margin-h=15&column=7&title_color=FF0000&icon_color=FF0000&text_color=ffffff&bg_color=000000&border_color=FF0000" />
+<img src="https://github-profile-trophy.vercel.app?username=enmanuelmvp&theme=radical&no-frame=false&no-bg=false&margin-w=15&margin-h=15&column=7&title_color=FF0000&icon_color=FF0000&text_color=ffffff&bg_color=000000&border_color=FF0000" />
 
 <br>
 
@@ -289,7 +289,7 @@ Drive: Maximum Attack Mode
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=EnmanuelFerreras&label=VISITORS&color=FF0000&style=for-the-badge&labelColor=000000)
+![Profile Views](https://komarev.com/ghpvc/?username=enmanuelmvp&label=VISITORS&color=FF0000&style=for-the-badge&labelColor=000000)
 
 <br><br>
 
@@ -301,21 +301,27 @@ Drive: Maximum Attack Mode
 <div align="center">
 
 ```
-                                    ___-------___
-                                _-~~             ~~-_
-                             _-~                    /~-_
-          /^\__/^\         /~  \                   /    \
-        /|  O|| O|        /      \_______________/        \
-       | |___||__|      /       /                \          \
-       |          \    /      /                    \          \
-       |   (_______) /______/                        \_________ \
-       |         / /         \                      /            \
-        \         \^\\         \                  /               \     /
-          \         ||           \______________/      _-_       //\__//
-            \       ||------_-~~-_ ------------- \ --/~   ~\    || __/
-              ~-----||====/~     |==================|       |/~~~~~
-               (_(__/  ./     /                    \_\      \.
-                      (_(___/                         \_____)_)
+                   _-_
+                 _-','^-_
+             ._-' ,'   |  \
+            !-'_,|     |   |
+            !-' |      |   |
+                |      |   |
+                |      |   |
+              __|______|___|__
+             | _______________|
+             | _______________|
+      .------------'       `-----------.
+     /  .---'                   '---,   \
+    /  /                             \   \
+   /  /                               \   \
+  |  |                                 |  |
+  |  |                                 |  |
+  |  |                                 |  |
+   \  \_       F1 RACING CAR 🏎️      _/  /
+    \   '-.______________________,.-'   /
+     '-.___                       ___.-'
+          `--._________________,--'
 ```
 
 ### 🏎️ **FULL SPEED AHEAD!** 🏁
