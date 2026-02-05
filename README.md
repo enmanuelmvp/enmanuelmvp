@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Epic F1 Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=300&section=header&text=ENMANUEL%20FERRERAS&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=⚡%20FULL%20STACK%20DEVELOPER%20⚡%20RACING%20THROUGH%20CODE%20⚡&descSize=22&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,24,26,27&height=300&section=header&text=ENMANUEL A.%20FERRERAS&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=⚡%20FULL%20STACK%20DEVELOPER%20⚡%20RACING%20THROUGH%20CODE%20⚡&descSize=22&descAlignY=60"/>
 
 <br>
 
@@ -230,17 +230,6 @@
 
 <br>
 
-## 🏆 CHAMPIONSHIP TROPHIES
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=enmanuelmvp&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" />
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=3"/>
-
-<br>
 
 ## 🎯 RACING OBJECTIVES
 
@@ -319,7 +308,7 @@
 
 <br>
 
-**🔥 Engineered with Passion by Enmanuel Ferreras 🔥**
+**🔥 Engineered with Passion by Enmanuel A. Ferreras 🔥**
 
 <br>
 
@@ -330,32 +319,25 @@
 </div>
 
 <!-- Epic Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=180&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,24,26,27&height=180&section=footer"/>
 
 <div align="center">
 
 ```
-                   _-_
-                 _-','^-_
-             ._-' ,'   |  \
-            !-'_,|     |   |
-            !-' |      |   |
-                |      |   |
-                |      |   |
-              __|______|___|__
-             | _______________|
-             | _______________|
-      .------------'       `-----------.
-     /  .---'                   '---,   \
-    /  /                             \   \
-   /  /                               \   \
-  |  |                                 |  |
-  |  |                                 |  |
-  |  |                                 |  |
-   \  \_       F1 RACING CAR 🏎️      _/  /
-    \   '-.______________________,.-'   /
-     '-.___                       ___.-'
-          `--._________________,--'
+              🏁                             🏁
+    ___________||_____________________________||
+   /  ____                                  __  \
+  |  |    \________________________________/  |  |
+  |  |  ___    ___    ___    ___    ___   ___ |  |
+  |  | |   |  |   |  |   |  |   |  |   | |   ||  |
+   \_|_|___|__|___|__|___|__|___|__|___|_|___|_/
+   (O)                                       (O)
+      \======================================/
+       \_____________________________________/
+         \   \                        /   /
+          \   \   🏎️ RACE CAR 🏎️   /   /
+           \___\____________________/___/
+           (O)                        (O)
 ```
 
 ### 🏎️ **FULL SPEED AHEAD!** 🏁
