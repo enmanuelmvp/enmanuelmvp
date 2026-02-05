@@ -1,237 +1,243 @@
 <div align="center">
 
-<!-- Starry Background Header with Animation -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Enmanuel A.%20Ferreras&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20%7C%20Content%20Creator%20%7C%20Tech%20Enthusiast&descSize=18&descAlignY=55"/>
+<!-- Animated Header with F1 Theme -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=300&section=header&text=ENMANUEL%20FERRERAS&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=40&desc=🏎️%20RACING%20THROUGH%20CODE%20AT%20FULL%20SPEED%20🏁&descSize=20&descAlignY=60"/>
 
-<!-- Animated Typing Text -->
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Hi+there!+%F0%9F%91%8B+I'm+Enmanuel A.+Ferreras;Computer+Engineering+Student+%F0%9F%92%BB;Full+Stack+Developer+%7C+Streamer+%F0%9F%8E%AE;Building+the+Future+with+Code!+%E2%9C%A8" alt="Typing SVG" />
-</h1>
+<!-- F1 Car Animation -->
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
-<!-- Wave Animation -->
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
-
-<!-- Visitor Counter -->
-<img src="https://komarev.com/ghpvc/?username=valenwerle&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-
-</div>
+<!-- Racing Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=800&height=100&lines=Computer+Engineering+Student+🎓;Full+Stack+Developer+💻;Racing+Through+Code+🏎️;Building+The+Future+⚡" alt="Typing SVG" />
+</p>
 
 <!-- Starry Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br>
-
-<!-- About Me Section with F1 Car -->
-<table align="center">
-<tr>
-<td width="50%">
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb1e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> **About Me**
-
-🎓 **Computer Engineering Student** - Halfway through my degree journey!
-
-💼 **Software Developer** at a carpentry systems company
-
-🚀 **Passionate about:** Creating innovative, productive, and creative solutions
-
-💡 I love to **learn** and **build** new things that make a difference
-
-🏎️ **Fun Fact:** I'm as fast as an F1 car when it comes to learning new technologies!
-
-<br>
-
-### 🌱 **Currently Learning:**
-- 🟢 **Nest.js** - Building scalable server-side applications
-- 🔴 **Angular** - Creating dynamic web applications
-  
-### 🎯 **Goals:**
-- 👯 Looking forward to collaborate on **open source projects**
-- 🤝 Building amazing things with the developer community
-- 📚 Constantly expanding my tech stack
-
-### 💬 **Ask Me About:**
-✔ Front-End & Back-End Development  
-✔ Software Architecture  
-✔ Anything tech-related - I'm happy to help!
-
-</td>
-<td width="50%">
-
-<br>
-
-<!-- F1 Car GIF -->
-<div align="center">
-  <img src="https://media.giphy.com/media/xT0xeB4UmTQ0RJiNbi/giphy.gif" width="400px" alt="F1 Car"/>
 </div>
 
-<br>
+## 🏁 ABOUT THE DRIVER
 
-### 🎮 **Beyond Coding:**
+```typescript
+const enmanuel = {
+    role: "Software Developer",
+    education: "Computer Engineering Student",
+    location: "Dominican Republic 🇩🇴",
+    
+    racing_stats: {
+        laps_completed: "∞",
+        fuel: "Coffee ☕",
+        speed: "Maximum",
+        pit_stops: "Learning Never Stops"
+    },
+    
+    current_lap: {
+        learning: ["Advanced Frontend", "Backend Patterns", "Software Architecture"],
+        building: ["Scalable Applications", "Clean Code", "Modern Solutions"],
+        goal: "Podium Position in Software Development 🏆"
+    }
+};
+```
 
-💜 **Streaming** on Twitch - Join my gaming sessions!
+<div align="center">
 
-🎮 **Gaming** - Leveling up in virtual worlds
+<!-- Starry Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-🎵 **Music Lover** - Code sounds better with a soundtrack
+## 🏎️ TECH GARAGE
 
-📖 **Science Books** - Exploring the universe through pages
+</div>
 
-### 📫 **Connect With Me:**
-📧 Email: **enmanuelalfonso6@gmail.com**
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> FRONTEND ARSENAL
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,angular,nextjs,vite,ts,tailwind" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&color=FF0000"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&color=000000"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&color=FF0000"/>
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&color=000000"/>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> BACKEND POWERHOUSE
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts,cs,python" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&color=FF0000"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white&color=000000"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&color=FF0000"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=000000"/>
+</p>
 
 </td>
 </tr>
 </table>
 
-<!-- Starry Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-<!-- Skills Section -->
 <div align="center">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb1e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> **My Tech Stack** <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb1e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px">
-
-### 💻 **Programming Languages**
+### 🗄️ DATABASE ENGINES
 
 <p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlserver" />
 </p>
 
-### 🚀 **Frameworks & Libraries**
-
-<p>
-<img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-<img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
-<img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-</p>
-
-### 🛠️ **Tools & Technologies**
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
-<img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
-<img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora"/>
-<img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino"/>
-</p>
-
-</div>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&color=FF0000"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&color=000000"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&color=FF0000"/>
 
 <!-- Starry Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br>
+### 🔧 PIT CREW TOOLS
 
-<!-- GitHub Stats Section -->
-<div align="center">
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,jenkins" />
+</p>
 
-## 📊 **GitHub Statistics**
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=000000"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=FF0000"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&color=000000"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white&color=FF0000"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white&color=000000"/>
+
+<!-- Starry Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📊 RACE STATISTICS
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=valenwerle&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177F7&icon_color=A177F7" alt="GitHub Stats"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=valenwerle&theme=tokyonight&hide_border=true&background=0D1117&ring=A177F7&fire=A177F7&currStreakLabel=A177F7" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=EnmanuelFerreras&show_icons=true&theme=radical&bg_color=0d1117&title_color=FF0000&icon_color=FF0000&text_color=c9d1d9&border_color=FF0000&hide_border=false" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=EnmanuelFerreras&theme=radical&background=0d1117&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&border=FF0000" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valenwerle&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177F7" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnmanuelFerreras&layout=compact&theme=radical&bg_color=0d1117&title_color=FF0000&text_color=c9d1d9&border_color=FF0000" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=EnmanuelFerreras&theme=tokyo-night&bg_color=0d1117&color=FF0000&line=FF0000&point=c9d1d9&area=true&hide_border=false&border_color=FF0000" />
 </p>
 
-<!-- GitHub Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=valenwerle&bg_color=0d1117&color=a177f7&line=a177f7&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
+<!-- Starry Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🎯 RACING OBJECTIVES
 
 </div>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+```diff
++ Grow as Full-Stack Developer
++ Build Scalable Applications
++ Master Clean Architecture
++ Contribute to Open Source
+```
+
+</td>
+<td width="50%">
+
+```diff
+! Apply Best Practices
+! Teamwork & Collaboration  
+! Continuous Learning
+! Innovation & Excellence
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
 
 <!-- Starry Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br>
+## 🏆 TROPHIES
 
-<!-- GitHub Trophies -->
-<div align="center">
-
-## 🏆 **GitHub Trophies**
-
-<img src="https://github-profile-trophy.vercel.app/?username=valenwerle&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=EnmanuelFerreras&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=7&title_color=FF0000&icon_color=FF0000&text_color=c9d1d9" />
+</p>
 
 <!-- Starry Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br>
+## 📡 PIT LANE COMMUNICATIONS
 
-<!-- Social Media Section -->
-<div align="center">
+<p align="center">
+  <a href="mailto:enmanuelalfonso6@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>
+  </a>
+  <a href="https://www.linkedin.com/in/enmanuelferreras" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/>
+  </a>
+  <a href="https://instagram.com/enmanuelmvp" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000"/>
+  </a>
+  <a href="https://www.tiktok.com/@enmanuelmvp" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-FF0000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=000000"/>
+  </a>
+</p>
 
-## 🌐 **Connect With Me on Social Media**
+<!-- Starry Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 💭 RACE WISDOM
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do&author=Steve%20Jobs&border_color=FF0000" />
+</p>
+
+<!-- Starry Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### 🏁 CHECKERED FLAG
 
 <p>
-<a href="https://instagram.com/enmanuelmvp" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="https://www.tiktok.com/@enmanuelmvp?_r=1&_t=ZS-93gA6bfZmb2" target="_blank">
-  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok"/>
-</a>
-<a href="www.linkedin.com/in/enmanuelferreras" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=600&lines=Thanks+for+visiting+my+garage!+🏎️;Let's+build+something+amazing!+⚡;See+you+on+the+track!+🏁" alt="Footer" />
 </p>
 
-### 💬 **Let's Collaborate!**
+<h3>⭐ If you like what you see, leave a star! ⭐</h3>
 
-I'm always open to interesting conversations and collaboration opportunities.  
-Feel free to reach out if you want to work on something amazing together! 🚀
+**Engineered with 🔥 by Enmanuel Ferreras**
 
-</div>
-
-<!-- Starry Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-<!-- Quote Section -->
-<div align="center">
-
-### 💭 **Developer Quote of the Day**
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=EnmanuelFerreras&label=Visitors&color=FF0000&style=for-the-badge&labelColor=000000" alt="Profile views" />
+</p>
 
 </div>
 
-<br>
+<!-- Animated Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=150&section=footer&animation=twinkling"/>
 
-<!-- Snake Animation -->
+<!-- Racing Animation -->
 <div align="center">
-
-### 🐍 **Contribution Snake**
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/valenwerle/valenwerle/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/valenwerle/valenwerle/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/valenwerle/valenwerle/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
-
-<div align="center">
-
-### ⭐ **Show some love by starring my repositories!** ⭐
-
-**Made with 💜 by Valentina Werle**
+  
+```
+                                          ___
+                                     _.-'_:_'._
+                                _.-'  ____  `-.
+                            _.-'  _.-'    `-._  `-.
+  .--.                  _.-'  _.-'   🏎️    `-._ `-.
+ |    |             _.-'  _.-'    FULL SPEED   `-._`-.
+ |    |         _.-'  _.-'         AHEAD!          `-._`-.
+ |____|     _.-'  _.-'                                 `-._`-.
+  |  |  _.-'  _.-'                                         `-._`-.
+  |  |.'  _.-'                                                 `-._`-.
+  |   _.-'                                                         `-._
+  _.-'___________________________________________________________________
+```
 
 </div>
