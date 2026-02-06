@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Epic F1 Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=300&section=header&text=ENMANUEL%20A.%20FERRERAS&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=⚡%20FULL%20STACK%20DEVELOPER%20⚡%20RACING%20THROUGH%20CODE%20⚡&descSize=22&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=300&section=header&text=ENMANUEL%20A.%20FERRERAS&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=⚡%20FULL%20STACK%20DEVELOPER%20⚡%20RACING%20THROUGH%20CODE%20⚡&descSize=22&descAlignY=60"/>
 
 <br>
 
@@ -323,6 +323,18 @@
 
 <div align="center">
 
-### 🏎️ **FULL SPEED AHEAD!** 🏁
+<br>
+
+### 🏁 **FULL SPEED AHEAD!** 🏁
+
+<br>
+
+🏎️💨💨💨💨💨💨💨💨💨💨💨💨💨💨💨💨💨💨💨💨🏁
+
+<br>
+
+**⚡ THANKS FOR VISITING MY GARAGE! ⚡**
+
+<br>
 
 </div>
