@@ -23,7 +23,7 @@
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
 ### ⚡ **DRIVER PROFILE**
 
@@ -42,11 +42,9 @@
 <br>
 
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
 ### 🏎️ **CURRENT LAP**
-
-<br>
 
 <img src="https://img.shields.io/badge/▸_Advanced%20Frontend%20Architectures-FF0000?style=for-the-badge&labelColor=000000"/>
 
@@ -210,7 +208,7 @@
 <br>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=enmanuelmvp&show_icons=true&theme=radical&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=ffffff&border_color=FF0000&border_radius=10&hide_border=false&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=enmanuelmvp&show_icons=true&theme=radical&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=ffffff&border_color=FF0000&border_radius=10&hide_border=false" />
   <img width="49%" src="https://streak-stats.demolab.com?user=enmanuelmvp&theme=radical&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FF0000&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&border=FF0000&border_radius=10" />
 </div>
 
@@ -289,7 +287,7 @@
 
 ## 💭 DRIVER'S MINDSET
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Simply%20Lovely&author=Max%20Verstappen&border=FF0000&bg_color=000000" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=I%20always%20want%20more,%20I'm%20never%20satisfied,%20and%20I%20keep%20working&author=Max%20Verstappen&border=FF0000&bg_color=000000" />
 
 <br>
 
