@@ -48,8 +48,6 @@
 
 <br>
 
-**📚 LEARNING TRACK**
-
 <img src="https://img.shields.io/badge/▸_Advanced%20Frontend%20Architectures-FF0000?style=for-the-badge&labelColor=000000"/>
 
 <img src="https://img.shields.io/badge/▸_Backend%20Design%20Patterns-000000?style=for-the-badge&labelColor=FF0000"/>
@@ -213,7 +211,7 @@
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=enmanuelmvp&show_icons=true&theme=radical&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=ffffff&border_color=FF0000&border_radius=10&hide_border=false&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=enmanuelmvp&theme=radical&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FF0000&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&border=FF0000&border_radius=10" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=enmanuelmvp&theme=radical&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FF0000&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&border=FF0000&border_radius=10" />
 </div>
 
 <br>
