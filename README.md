@@ -208,14 +208,14 @@
 <br>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=enmanuelmvp&show_icons=true&theme=radical&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=ffffff&border_color=FF0000&border_radius=10&hide_border=false" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=enmanuelmvp&theme=radical&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FF0000&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&border=FF0000&border_radius=10" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=enmanuelmvp&theme=radical&show_icons=true&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=ffffff&border_color=FF0000&border_radius=10&hide_border=false" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=enmanuelmvp&theme=radical&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FF0000&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&border=FF0000&border_radius=10&date_format=j%20M%5B%20Y%5D" />
 </div>
 
 <br>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enmanuelmvp&layout=compact&theme=radical&bg_color=000000&title_color=FF0000&text_color=ffffff&border_color=FF0000&border_radius=10&langs_count=8" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=enmanuelmvp&theme=radical&layout=compact&bg_color=000000&title_color=FF0000&text_color=ffffff&border_color=FF0000&border_radius=10&langs_count=8" />
 </div>
 
 <br>
